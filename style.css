@@ -1,0 +1,39 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: purple;
+    text-align: center;
+}
+ol {
+    display: flex;
+    justify-content: center;
+    
+}
+ol li {
+    list-style: none;
+    padding: 10px;
+}
+ol li a {
+    text-decoration: none;
+    color: #000;
+}
+.container {
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+h3 {
+    display: inline-block;
+}
